@@ -1,0 +1,28 @@
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\bin\Debug\Askcsc.dll
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\bin\Debug\AskReaderLib.dll
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\bin\Debug\AskReaderLib.pdb
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csprojResolveAssemblyReference.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csproj.CoreCompileInputs.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.dll
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.pdb
+D:\Polytech\Smart Cards\DotNET\AskReaderLib\bin\Debug\Askcsc.dll
+D:\Polytech\Smart Cards\DotNET\AskReaderLib\bin\Debug\AskReaderLib.dll
+D:\Polytech\Smart Cards\DotNET\AskReaderLib\bin\Debug\AskReaderLib.pdb
+D:\Polytech\Smart Cards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csprojAssemblyReference.cache
+D:\Polytech\Smart Cards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csproj.CoreCompileInputs.cache
+D:\Polytech\Smart Cards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.dll
+D:\Polytech\Smart Cards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.pdb
+C:\Users\Kamel\Desktop\SmartCards\DotNET\AskReaderLib\bin\Debug\Askcsc.dll
+C:\Users\Kamel\Desktop\SmartCards\DotNET\AskReaderLib\bin\Debug\AskReaderLib.dll
+C:\Users\Kamel\Desktop\SmartCards\DotNET\AskReaderLib\bin\Debug\AskReaderLib.pdb
+C:\Users\Kamel\Desktop\SmartCards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csprojAssemblyReference.cache
+C:\Users\Kamel\Desktop\SmartCards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\Kamel\Desktop\SmartCards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.dll
+C:\Users\Kamel\Desktop\SmartCards\DotNET\AskReaderLib\obj\Debug\AskReaderLib.pdb
+C:\Users\Kamel\Desktop\Nouveau dossier\DotNET\AskReaderLib\bin\Debug\Askcsc.dll
+C:\Users\Kamel\Desktop\Nouveau dossier\DotNET\AskReaderLib\bin\Debug\AskReaderLib.dll
+C:\Users\Kamel\Desktop\Nouveau dossier\DotNET\AskReaderLib\bin\Debug\AskReaderLib.pdb
+C:\Users\Kamel\Desktop\Nouveau dossier\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csprojAssemblyReference.cache
+C:\Users\Kamel\Desktop\Nouveau dossier\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\Kamel\Desktop\Nouveau dossier\DotNET\AskReaderLib\obj\Debug\AskReaderLib.dll
+C:\Users\Kamel\Desktop\Nouveau dossier\DotNET\AskReaderLib\obj\Debug\AskReaderLib.pdb

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartCards</string>
+    <string name="servicedesc">Desc</string>
+    <string name="aiddescription">Desc</string>
+    <string-array name="data_type">
+        <item>URI</item>
+        <item>Text</item>
+    </string-array>
+    <string-array name="URI_type">
+        <item>http://www.</item>
+        <item>https://www.</item>
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string-array name="text_type">
+        <item>Fr</item>
+        <item>Eng</item>
+    </string-array>
+</resources>
